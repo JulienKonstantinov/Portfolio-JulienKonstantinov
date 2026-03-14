@@ -34,7 +34,7 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 - **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
 - **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
-#### 🔹 **Projet IN520 - Comparaison d’expressions régulières
+#### 🔹 **Projet IN520** - Comparaison d’expressions régulières
 - **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
 - **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
