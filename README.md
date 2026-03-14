@@ -24,7 +24,7 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 
 #### 🔹 **Projet BI423** – Prédiction de l’origine de réplication chez une bactérie
 - **Objectif** : Programmation en Python d'une interface graphique Tkinter pour prédire une origine de réplication chez la bactérie Carsonella ruddii via la recherche de "point de rebroussement" ou « point d’inversion ».
-- **Liens** : [📄 Fichier ZIP du projet](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Liens** : [📄 Fichier ZIP du projet](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/Bi423_Pre%CC%81dictionOriBacte%CC%81rie_Costa_Kan_Konstantinov.zip)
 
 #### 🔹 **Projet Immersion Laboratoire** – Poster Scientifique
 - **Objectif** : Réalisation d'un poster scientifique sur la plateforme DISSECT, qui étudie le développement de systèmes open source pour l’étude du comportement des drosophiles, et présentation orale devant un jury.
