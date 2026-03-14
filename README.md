@@ -16,11 +16,27 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 
 #### 🔹 **Projet Compression BC1** – Traitement d'images
 - **Objectif** : Programmation en Python d'un outil permettant de créer des images au format BC1, et soutenance/présentation du code devant un jury.
-- **Liens** : [📄 Dépôt GitHub Compression BC1](https://github.com/JulienKonstantinov/IN202_Compression_BC1/tree/main)
+- **Liens** : [🔗 Dépôt GitHub Compression BC1](https://github.com/JulienKonstantinov/IN202_Compression_BC1/tree/main)
 
 #### 🔹 **Projet InPoDA** – Analyse de données de réseaux sociaux
 - **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
-- **Lien** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+
+#### 🔹 **Projet BI423** – Prédiction de l’origine de réplication chez une bactérie
+- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+
+#### 🔹 **Projet Immersion Laboratoire** – Poster Scientifique
+- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+
+#### 🔹 **Projet IN513** – Conception d'une base de données
+- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+
+#### 🔹 **Projet IN520 - Comparaison d’expressions régulières
+- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 ---
 
