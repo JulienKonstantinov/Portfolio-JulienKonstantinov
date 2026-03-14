@@ -16,12 +16,11 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 
 #### 🔹 **Projet Compression BC1** – Traitement d'images
 - **Objectif** : Programmation en Python d'un outil permettant de créer des images au format BC1, et soutenance/présentation du code devant un jury.
-- **Liens** : [📄 Dépôt GitHub du projet](https://github.com/JulienKonstantinov/IN202_Compression_BC1/tree/main)
+- **Liens** : [📄 Dépôt GitHub Compression BC1](https://github.com/JulienKonstantinov/IN202_Compression_BC1/tree/main)
 
-#### 🔹 **[Nom du Projet 3]** – [Brève description]
-- **Objectif** : [ex: Construire un automate pour tester des expressions régulières]
-- **Langage** : [ex: Python, Java]
-- **Lien** : [🔗 Code](lien)
+#### 🔹 **Projet InPoDA** – Analyse de données de réseaux sociaux
+- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Lien** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 ---
 
