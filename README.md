@@ -1,6 +1,6 @@
 # Portfolio-JulienKonstantinov
 
-# **[JulienKonstantinov]**
+# **[JulienKonstantinov](https://github.com/JulienKonstantinov)**
 
 *Étudiant en 3e année de Double Licence Bio-Informatique à l'Université Paris-Saclay*
 
