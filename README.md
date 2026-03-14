@@ -28,7 +28,7 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 
 #### 🔹 **Projet Immersion Laboratoire** – Poster Scientifique
 - **Objectif** : Réalisation d'un poster scientifique sur la plateforme DISSECT, qui étudie le développement de systèmes open source pour l’étude du comportement des drosophiles, et présentation orale devant un jury.
-- **Liens** : [📄 Poster](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Liens** : [📄 Poster](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/KONSTANTINOV_Julien_PlateformeDISSECT.pdf)
 
 #### 🔹 **Projet IN513** – Conception d'une base de données
 - **Objectif** : Programmation en SQL d'une base de données fictive visant à reproduire celle de l'application Yuka.
