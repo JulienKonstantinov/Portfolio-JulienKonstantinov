@@ -31,8 +31,8 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 - **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 #### 🔹 **Projet IN513** – Conception d'une base de données
-- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
-- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Objectif** : Programmation en SQL d'une base de données fictive visant à reproduire celle de l'application Yuka.
+- **Liens** : [🔗 Dépôt GitHub Base de données](https://github.com/mathisren/Database_Project_yuka/tree/main)
 
 #### 🔹 **Projet IN520** - Comparaison d’expressions régulières
 - **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
