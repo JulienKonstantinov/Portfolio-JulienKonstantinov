@@ -13,19 +13,19 @@ Ce dépôt est mon portfolio GitHub : une vitrine de mes projets, compétences e
 
 ### 💻 **Projets**
 
-#### ✨ **[Nom du Projet 1]** – [Brève description]
+#### 🔹 **[Nom du Projet 1]** – [Brève description]
 *(Icône : utilise un emoji ou une image pour chaque projet)*
 - **Contexte** : [Projet académique/personnel/professionnel]
 - **Objectif** : [Décrire l’objectif principal]
 - **Langage/Outils** : [Python, R, JavaScript, etc.]
-- **Lien** : [🔗 Code](lien_vers_le_dépôt) / [📄 PDF](lien_vers_un_pdf_si_applicable)
+- **Lien** : [🔗 Code](lien_vers_le_dépôt) / [📄 PDF]()
 
-#### ✨ **[Nom du Projet 2]** – [Brève description]
+#### 🔹 **[Nom du Projet 2]** – [Brève description]
 - **Contexte** : [ex: Projet universitaire]
 - **Objectif** : [ex: Créer un poster scientifique sur X]
 - **Lien** : [📄 PDF](lien)
 
-#### ✨ **[Nom du Projet 3]** – [Brève description]
+#### 🔹 **[Nom du Projet 3]** – [Brève description]
 - **Objectif** : [ex: Construire un automate pour tester des expressions régulières]
 - **Langage** : [ex: Python, Java]
 - **Lien** : [🔗 Code](lien)
