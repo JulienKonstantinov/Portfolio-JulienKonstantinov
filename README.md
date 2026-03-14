@@ -23,19 +23,19 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 - **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 #### 🔹 **Projet BI423** – Prédiction de l’origine de réplication chez une bactérie
-- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
-- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Objectif** : Programmation en Python d'une interface graphique Tkinter pour prédire une origine de réplication chez la bactérie Carsonella ruddii via la recherche de "point de rebroussement" ou « point d’inversion ».
+- **Liens** : [📄 Fichier ZIP du projet](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 #### 🔹 **Projet Immersion Laboratoire** – Poster Scientifique
-- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
-- **Liens** : [🔗 Dépôt GitHub InPoDA](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
+- **Objectif** : Réalisation d'un poster scientifique sur la plateforme DISSECT, qui étudie le développement de systèmes open source pour l’étude du comportement des drosophiles, et présentation orale devant un jury.
+- **Liens** : [📄 Poster](https://github.com/Egeyae/InPoDA-project-in304/tree/main)
 
 #### 🔹 **Projet IN513** – Conception d'une base de données
 - **Objectif** : Programmation en SQL d'une base de données fictive visant à reproduire celle de l'application Yuka.
 - **Liens** : [🔗 Dépôt GitHub Base de données](https://github.com/mathisren/Database_Project_yuka/tree/main)
 
 #### 🔹 **Projet IN520** - Comparaison d’expressions régulières
-- **Objectif** : Programmation en Python d'une plateforme fictive pour analyser des "tweets" notamment leur sujet à l'aide du natural language processing (NLP), et présentation du code devant un jury.
+- **Objectif** : Programmation en Lex/Flex, Bison/Yacc et Python d'une chaîne de traitement allant de l’analyse lexicale et syntaxique d’expressions régulières jusqu’à la construction et la comparaison d’automates finis déterministes minimaux.
 - **Liens** : [📄 Fichier ZIP du projet](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/ProjetThe%CC%81orieDesLangages.zip)
 
 ---
