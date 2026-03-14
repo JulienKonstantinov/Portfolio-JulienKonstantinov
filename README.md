@@ -18,7 +18,7 @@ Ce dépôt est mon portfolio GitHub : une vitrine de mes projets, compétences e
 - **Contexte** : [Projet académique/personnel/professionnel]
 - **Objectif** : [Décrire l’objectif principal]
 - **Langage/Outils** : [Python, R, JavaScript, etc.]
-- **Lien** : [🔗 Code](lien_vers_le_dépôt) / [📄 PDF]()
+- **Lien** : [📄 PDF](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/Diaporama_Pre%CC%81sentation_DYBI100.pdf)
 
 #### 🔹 **[Nom du Projet 2]** – [Brève description]
 - **Contexte** : [ex: Projet universitaire]
