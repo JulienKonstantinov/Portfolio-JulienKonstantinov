@@ -10,7 +10,7 @@
 
 #### 🔹 **Projet DYBI10** – Recherche bibliographique
 - **Objectif** : Réalisation d’une recherche bibliographique sur l'article scientifique : "Recent Progress in Wearable Biosensors:
-From Healthcare Monitoring to Sports Analytics", et présentation orale.
+From Healthcare Monitoring to Sports Analytics", et présentation orale devant un jury.
 - **Liens** : [📄 Diapositives présentation](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/Diaporama_Pre%CC%81sentation_DYBI100.pdf)
              [📄 Article](https://github.com/JulienKonstantinov/Portfolio-JulienKonstantinov/blob/main/Article_IntelligenceArtificielle.pdf)
 
