@@ -41,6 +41,6 @@ From Healthcare Monitoring to Sports Analytics", et présentation orale devant u
 ---
 
 ### 📫 **Contact**
-- **Email** : [julienkonstantinov@gmail.com]
-- **LinkedIn** : [https://www.linkedin.com/in/julien-konstantinov/]
-- **GitHub** : [https://github.com/JulienKonstantinov]
+- **Email** : [julienkonstantinov@gmail.com](julienkonstantinov@gmail.com)
+- **LinkedIn** : [https://www.linkedin.com/in/julien-konstantinov/](https://www.linkedin.com/in/julien-konstantinov/)
+- **GitHub** : [https://github.com/JulienKonstantinov](https://github.com/JulienKonstantinov)
